@@ -38,4 +38,4 @@
 #
 # ###########################################################################
 
-!streamlit run app.py --server.port $CDSW_APP_PORT --server.address 127.0.0.1
+!streamlit run chatapp.py --server.port $CDSW_APP_PORT --server.address 127.0.0.1
