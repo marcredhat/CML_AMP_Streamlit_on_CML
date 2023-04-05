@@ -33,7 +33,7 @@ with st.sidebar:
 
 st.title("chatOutside: Outside + ChatGPT")
 
-image = Image.open('/Users/wen/Downloads/VideoBkg_08.jpg')
+image = Image.open('/home/cdsw/pattern.jpg')
 
 st.image(image, caption='Get Outside!')
 
