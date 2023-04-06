@@ -1,3 +1,6 @@
+#### from https://github.com/portkeys/chatOutside
+#### author: https://github.com/portkeys
+
 import random
 import tiktoken
 import pinecone
