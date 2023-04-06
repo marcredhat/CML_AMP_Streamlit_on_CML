@@ -1,9 +1,24 @@
-# Streamlit as a CML Application
+# Cloudera Private Cloud running on Kubernetes - Applied Machine Learning Prototype with OPL (OpenAI, Pinecone, and Langchain).
 
-![The Streamlit logo](docs/images/streamlit-logo.png)
 
-A minimal example of a [Streamlit](https://www.streamlit.io/) application running as a CML or CDSW Application.
-We display and chart a small dataset with Seaborn.
+Based on Wen Yang's work at https://lnkd.in/g79rWnPm
+
+OPL has increasingly become the industry solution to overcome the two limitations of LLMs:
+
+LLMs hallucination: chatGPT will sometimes provide wrong answers with overconfidence. 
+One of the underlying causes is that those language models are trained to predict the next word very effectively, or the next token to be precise. 
+
+Given an input text, chatGPT will return words with high probability, which doesn’t mean that chatGPT has reasoning ability.
+
+Less up-to-date knowledge: chatGPT’s training data is limited to internet data prior to Sep 2021. Therefore, it will produce less desirable answers if your questions are about recent trends or topics.
+
+OPL is also used to build chatGPT with domain knowledge
+
+Video: https://lnkd.in/gGWy5AFf
+
+
+Full playlist (Iceberg time travel on Kubernetes, Spark and Airflow on Kubernetes, MLFlow on Kubernetes, Distribute Compute with Ray on Kubernetes):
+https://lnkd.in/grpcKXej
 
 ## Repository Structure
 
