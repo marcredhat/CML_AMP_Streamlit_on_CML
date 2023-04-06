@@ -45,10 +45,10 @@ There are three ways to launch this project on CML:
 
 Once the CML Application has been created (by any means), you can launch it from the Applications pane.
 This should open a browser window, with a Streamlit application running at a URL
-similar to `streamlit.cdsw-or-cml.your-organisation.com`.
+similar to `streamlit.cml.your-organisation.com`.
 
 If everything worked, you should see an application like this:
 
-![An image of the Streamlit application](docs/images/streamlit-amp-screenshot.png)
+![An image of the Streamlit application](docs/images/chatoutside.png)
 
-To develop the Streamlit app, open a Python 3 workbench session and modify `app.py`.
+To develop the Streamlit app, open a Python 3 workbench session and modify `chatapp.py`.
