@@ -1,7 +1,7 @@
 # Cloudera Private Cloud running on Kubernetes - Applied Machine Learning Prototype with OPL (OpenAI, Pinecone, and Langchain).
 
 
-From Wen Yang's work at https://lnkd.in/g79rWnPm "
+From Wen Yang's work at https://lnkd.in/g79rWnPm :
 
 "OPL has increasingly become the industry solution to overcome the two limitations of LLMs:
 
